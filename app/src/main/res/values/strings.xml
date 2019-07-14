@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_title">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="about_activity_title">About ALC</string>
+    <string name="profile_activity_title">My Profile</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="user_name">Charles Mpanduki</string>
+    <string name="user_track">Track:  Android</string>
+    <string name="user_country">Country:  Zimbabwe</string>
+    <string name="user_email">Email:  charle1x1@gmail.com</string>
+    <string name="user_phone">Phone Number:  263771810531</string>
+    <string name="user_slack_name">Slack Username:  @CharlesMpanduki</string>
+    <string name="intents_error">Error failed to load!</string>
+</resources>
